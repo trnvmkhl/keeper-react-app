@@ -1,3 +1,9 @@
+# Приложение по хранению заметок на React. 
+ 
+Создано в учебных целях, для понимания основ работы React: компонентов, хуков, пропсов.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
