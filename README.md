@@ -2,6 +2,8 @@
  
 Создано в учебных целях, для понимания основ работы React: компонентов, хуков, пропсов.
 
+[Приложение на heroku](https://keeper-app-troinov2.herokuapp.com).
+
 
 
 # Getting Started with Create React App
